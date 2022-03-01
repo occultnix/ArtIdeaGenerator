@@ -18,7 +18,6 @@ root = Tk()
 line1 = StringVar()
 line2 = StringVar()
 line3 = StringVar()
-expressions = [ "aroused", "desperate", "flustered", "concerned", "glaring" ]
 
 conjunction = [" and ", " or "]
 
